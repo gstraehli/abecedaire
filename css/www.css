@@ -103,6 +103,7 @@ h1{
 .vignette{
     width:300px;
     margin:10px;
+    height:100%;
     
 }
 .vignette:hover{
@@ -111,6 +112,7 @@ h1{
 
 .vignette img{
     width:100%;
+    
 }
 
 .frame-img{
